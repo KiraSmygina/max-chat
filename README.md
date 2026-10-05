@@ -35,7 +35,7 @@
 1. Клонируй репозиторий:
 
 ```bash
-git clone https://github.com/ТВОЙ_НИК/max-chat.git
+git clone https://github.com/KiraSmygina/max-chat.git
 cd max-chat
 ```
 
